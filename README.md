@@ -28,25 +28,6 @@ Exécutez simplement le script avec :
 Un menu interactif s'affichera, vous permettant de naviguer entre les différentes options.
 
 
-
-Exemple d'affichage
-
-================================
-================================
-=====  16/03/2025 14:30:00  ====
-================================
-================================
-==== Menu de gestion FreeIPA ====
-==== Suffixe: domainname ====
-================================
-1) afficher les utilisateurs
-2) afficher les groupes
-...
-11) Quitter
-Choisissez une option :
-
-Auteur
-
 Jonathan Kassegne
 
 Licence
